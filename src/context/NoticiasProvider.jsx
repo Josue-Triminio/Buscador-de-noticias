@@ -55,7 +55,7 @@ const NoticiasContext=createContext()
             noticia,
             totalNoticias,
             handleChangePagina,
-            pagina
+            pagina,
 
 
         }}>
