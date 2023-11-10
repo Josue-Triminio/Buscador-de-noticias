@@ -1,4 +1,4 @@
-import axios from "axios";
+
 import { useEffect, useState , createContext} from "react";
 
 const NoticiasContext=createContext()
@@ -57,7 +57,7 @@ const NoticiasContext=createContext()
             noticia,
             totalNoticias,
             handleChangePagina,
-            pagina,
+            pagina
 
 
         }}>
